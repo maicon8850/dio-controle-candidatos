@@ -62,7 +62,7 @@ O candidato AUGUSTO foi selecionado para a vaga.
  ┃ ┃ ┃ ┗ 📂 org.example
  ┃ ┃ ┃ ┃ ┗ 📜 ProcessoSeletivo.java
  ┣ 📜 README.md
- ┣ 📜 pom.xml (se for projeto Maven)
+ ┣ 📜 pom.xml 
 ```
 
 ---
